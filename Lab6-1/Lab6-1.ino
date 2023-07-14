@@ -4,7 +4,6 @@
 const char* ssid = "Galaxy S23 Ultra 3BD3";
 const char* password = "6stw34b4wq2eika";
 
-// Set web server port number to 80
 WiFiServer server(80);
 
 // Variable to store the HTTP request
